@@ -1,5 +1,5 @@
 # car_evaluation
-Model to Evaluate the car
+Model to Evaluate the car using Decision Tree
 
 Car Evaluation was derived from a simple hierarchical decision model.The model evaluates the car according to the following structure.
 
